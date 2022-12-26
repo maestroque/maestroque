@@ -1,0 +1,4 @@
+- Electrical and Computer Engineering undergrad @ AUTh 🧑‍🎓
+- Communications Engineer in [AcubeSAT](https://acubesat.spacedot.gr/) @ Spacedot 🛰️
+- Interested in telecommunications, signal processing and RF 📡
+- Occasionally playing and creating music 🎸
